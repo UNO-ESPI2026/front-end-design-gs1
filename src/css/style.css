@@ -762,6 +762,8 @@ header a {
 
 /* Fim: Objetivos */
 
+/* Início: Divisor */
+
 .divisor {
     max-width: 1100px;
     margin: 0 auto;
@@ -783,6 +785,8 @@ header a {
         padding: 0 24px;
     }
 }
+
+/* Fim: Divisor */
 
 /* Início: Público-alvo */
 

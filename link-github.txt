@@ -1,0 +1,7 @@
+Repositório GitHub: https://github.com/UNO-ESPI2026/front-end-design-gs1
+
+GitHub Pages: https://uno-espi2026.github.io/front-end-design-gs1/
+
+Obs.: O botão "Ver a plataforma" leva para uma simulação da plataforma 
+      em outro repositório, ou seja, não faz parte da entrega, mas segue 
+      os mesmos requisitos da disciplina de front-end.
